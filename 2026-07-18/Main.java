@@ -1,3 +1,14 @@
+/*
+ * Problem: 2218B - The 67th 6-7 Integer Problem
+ * Link: https://codeforces.com/problemset/problem/2218/B
+ * Rating: 800
+ * Tags: greedy, math
+ *
+ * Question:
+ * You are given 7 integers a1, a2, ..., a7.
+ * You must negate 6 out of the 7 integers (multiply them by -1).
+ * Find the maximum possible sum after negating exactly 6 of them.
+ */
 import java.util.Scanner;
 
 public class Main {

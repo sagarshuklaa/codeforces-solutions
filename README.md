@@ -90,15 +90,15 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 
 
-| Date       | Problem                          | Rating | Tags                  | Status |
+| Date | Problem No. | Problem Name | Question Summary | Rating | Tags | Status |
 
-|------------|-----------------------------------|--------|------------------------|--------|
+|------|------------|---------------|-------------------|--------|------|--------|
 
-| 2026-07-18 | 2218B - The 67th 6-7 Integer Problem | 800    | greedy, math           | ✅ Solved |
+| 2026-07-18 | \[2218B](https://codeforces.com/problemset/problem/2218/B) | The 67th 6-7 Integer Problem | Given 7 integers, negate exactly 6 of them to maximize the sum. | 800 | greedy, math | ✅ Solved |
 
 
 
-\*(Updated as new problems are solved — see individual folders for code.)\*
+\*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
 
