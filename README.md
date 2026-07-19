@@ -96,7 +96,7 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-18 | \[2218B](https://codeforces.com/problemset/problem/2218/B) | The 67th 6-7 Integer Problem | Given 7 integers, negate exactly 6 of them to maximize the sum. | 800 | greedy, math | ✅ Solved |
 
-
+| 2026-07-19 | \[2218A](https://codeforces.com/problemset/problem/2218/A) | The 67th Integer Problem | Choose y such that min(x, y) is maximized. | 800 | brute force, games, implementation, math | ✅ Solved |
 
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
