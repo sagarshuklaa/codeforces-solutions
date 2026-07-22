@@ -100,6 +100,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-20 | [2241A](https://codeforces.com/problemset/problem/2241/A) | Divide and Conquer | Determine if x can become y by repeatedly dividing by its own divisors. | 800 | greedy, math, number theory | ✅ Solved |
 
+| 2026-07-21 | [2240A](https://codeforces.com/problemset/problem/2240/A) | Another Popcount Problem | Construct k numbers with sum <= n maximizing total popcount using greedy bit-level distribution. | 800 | greedy | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
