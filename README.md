@@ -102,6 +102,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-21 | [2240A](https://codeforces.com/problemset/problem/2240/A) | Another Popcount Problem | Construct k numbers with sum <= n maximizing total popcount using greedy bit-level distribution. | 800 | greedy | ✅ Solved |
 
+| 2026-07-22 | [2238B](https://codeforces.com/problemset/problem/2238/B) | Crimson Triples | Count triples where b divides both a and c, using sum of floor(n/b)^2. | 900 | dp, math, number theory | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
