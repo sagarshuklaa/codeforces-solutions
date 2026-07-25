@@ -106,6 +106,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-23 | [2238A](https://codeforces.com/problemset/problem/2238/A) | Another Puzzle from Papyrus | Compare no-reorder vs reorder+sort strategies to minimize cost. | 800 | greedy, math, sortings | ✅ Solved |
 
+| 2026-07-24 | [2238F](https://codeforces.com/problemset/problem/2238/F) | Paths on a Grid | Count good sets of cells using dominator/post-dominator trees. | 2500+ | graph theory, dominator tree, dsu | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
