@@ -108,6 +108,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-24 | [2238F](https://codeforces.com/problemset/problem/2238/F) | Paths on a Grid | Count good sets of cells using dominator/post-dominator trees. | 2500+ | graph theory, dominator tree, dsu | ✅ Solved |
 
+| 2026-07-25 | [2236A](https://codeforces.com/problemset/problem/2236/A) | Games on the Train | Find min k such that all towers can be raised by x in [1,k] to equal height. | 800 | greedy, math | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
