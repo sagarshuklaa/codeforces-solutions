@@ -110,6 +110,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-25 | [2236A](https://codeforces.com/problemset/problem/2236/A) | Games on the Train | Find min k such that all towers can be raised by x in [1,k] to equal height. | 800 | greedy, math | ✅ Solved |
 
+| 2026-07-26 | [2237A](https://codeforces.com/problemset/problem/2237/A) | Destroying Towers | Each tower's minimum achievable height equals the prefix minimum; answer is sum of prefix mins. | 800 | games, greedy | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
