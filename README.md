@@ -112,6 +112,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-26 | [2237A](https://codeforces.com/problemset/problem/2237/A) | Destroying Towers | Each tower's minimum achievable height equals the prefix minimum; answer is sum of prefix mins. | 800 | games, greedy | ✅ Solved |
 
+| 2026-07-27 | Predominant Frequency Division | Split array into 3 parts with count-threshold conditions using prefix-sum tracking. | ~1500 | greedy, math, prefix sums | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
