@@ -114,6 +114,8 @@ Each folder is named by \*\*date (YYYY-MM-DD)\*\* and contains the solution(s) s
 
 | 2026-07-27 | Predominant Frequency Division | Split array into 3 parts with count-threshold conditions using prefix-sum tracking. | ~1500 | greedy, math, prefix sums | ✅ Solved |
 
+| 2026-07-28 | Threshold Movement | Valid k exists only if n is even and pairs alternate R,L with a gap >=2 between min(odd) and max(even). | 800 | constructive, math | ✅ Solved |
+
 \*(Updated as new problems are solved — see individual folders for code and full problem statements in comments.)\*
 
 
